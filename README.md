@@ -4,6 +4,14 @@
 - **version** : 3.xx
 
 ```bash
-git clone ....
-cd ...
+git add
+git commit
+```
+
+```python
+num: int = 10
+names: list = [10, 20, 30]
+
+def test():
+    pass
 ```
