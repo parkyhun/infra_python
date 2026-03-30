@@ -1,0 +1,8 @@
+# config.txt 파일 
+################################
+num=1
+name=kim lee park
+#################
+SELINUX=disabled text=aaa aaa=bbb
+###################
+addr=seuol
