@@ -10,6 +10,7 @@
 # 회원 1명의 데이터 (list type)
 mem1 = {"num":1, "name":"kimgura", "isMan":True}
 # 회원 1명의 데이터(쓰기 어렵다)
+
 #info1 = [1, "kimgura", True]
 print(mem1["num"])
 print(mem1["name"])
